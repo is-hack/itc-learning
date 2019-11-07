@@ -1,7 +1,7 @@
 jdLorem ipsum dolor sit amet,
 consectetuer adipiscing elit.
-Aenean blablabla commodo ligula eget dolor.
-Aenean massa.
+ blablacommodo ligula eget dolor.
+ massa.
 Cum sociis natoque penatibus et magnis dis parturient montes,
 nascetur mus.
 Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
